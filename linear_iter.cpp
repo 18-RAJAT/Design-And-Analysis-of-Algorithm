@@ -5,7 +5,8 @@ using namespace std;
 
 int main()
 {
-cout<<"Rajat Joshi -> F -> 20011595"<<"\n";
+   cout<<endl;
+cout<<"Rajat joshi 20011595 - G \t"<<"\n";
 int n=0,key,counter=0;
 cout<<"Enter the total number to enter : "<<"\n";
 cin>>n;
