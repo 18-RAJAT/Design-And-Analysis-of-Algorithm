@@ -5,8 +5,8 @@ using namespace std;
 
 int
 main ()
-{   cout<<endl;
-cout<<"Mayank - Mishra 20011595 - G\n"<<"\n";
+{     cout<<endl;
+cout<<"Rajat joshi 20011595 - G \t"<<"\n";
 
   int n = 0, counter = 0, counter2 = 0,key=0,index=0;
     cout << "Enter the number of element to enter : ";
