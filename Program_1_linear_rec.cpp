@@ -32,7 +32,7 @@ searching(arr,n,search);
 int main()
 {
     cout<<endl;
-cout<<"Mayank - Mishra 20011595 - G\n"<<"\n";
+cout<<"Rajat joshi 20011595 - G \t"<<"\n";
 int n=0,key;
 cout<<"Enter the total number to enter : "<<"\n";
 cin>>n;
