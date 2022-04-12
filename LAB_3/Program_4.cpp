@@ -3,9 +3,8 @@
 using namespace std;
 
 int main()
-{ cout<<endl;
-cout<<"Mayank - Mishra 20011595 - G\n"<<"\n";
-
+{    cout<<endl;
+cout<<"Rajat joshi 20011595 - G \t"<<"\n";
 int num,key,counter=0,n,dSize=0;
 cout<<"Enter the number of elements to enter : ";
 cin>>n;
